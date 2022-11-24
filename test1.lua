@@ -1,13 +1,4 @@
 -- main aimlock settings
-local configs = {
-    main = {
-        enabled = true,
-        aimlockkey = "c",
-        prediction = 0.134123,
-        aimpart = 'HumanoidRootPart', -- Head, UpperTorso, HumanoidRootPart, LowerTorso
-        notifications = true
-    }
-}
 
 -- box / marker settings
 
