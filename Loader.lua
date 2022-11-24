@@ -36,5 +36,5 @@
 
 
 --]]
-load -- Hitbox
-Load -- Camlock
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itszw/lock/main/test1.lua"))();  -- Dot
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itszw/lock/main/test2.lua"))(); -- Camlock
